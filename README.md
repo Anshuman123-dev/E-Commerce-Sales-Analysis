@@ -1,7 +1,3 @@
-Here's an improved and professional version of your **E-Commerce Sales Analysis Project** write-up, formatted specifically for a `README.md` file:
-
----
-
 # 📊 E-Commerce Sales Analysis (MS Excel)
 
 ## 📌 Project Objective
@@ -76,6 +72,3 @@ Analyze the **2024 annual sales report** of an E-Commerce business to uncover ac
 * **Excel Data Analysis**
 * **Data Visualization**
 
----
-
-Let me know if you want a sample dashboard screenshot or table structure for the README as well!
