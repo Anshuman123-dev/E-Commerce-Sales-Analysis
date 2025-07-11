@@ -44,7 +44,7 @@ Analyze the **2024 annual sales report** of an E-Commerce business to uncover ac
 
 Below is a snapshot of the **Excel Dashboard** developed for this analysis:
 
-![Dashboard Sample](E-Commerce)
+![Dashboard Sample](E-Commerce%20Sales%20Demo.png)
 
 > _This dashboard includes dynamic visuals for sales by month, gender-wise segmentation, top states, category performance, and sales channels._
 
